@@ -18,7 +18,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <unit.skipTests>false</unit.skipTests>
     <integration.skipTests>false</integration.skipTests>
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.assertj-core>3.10.0</version.assertj-core>
     <version.postgresql>42.1.4</version.postgresql>
     <version.maven-resources-plugin>3.0.2</version.maven-resources-plugin>
